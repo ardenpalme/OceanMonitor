@@ -1,6 +1,6 @@
 /* USART-specific functions for the atmega1284p chip
  * Some functions have been adapted from the atmega1284p datasheet
- * Baudrate= 9600 at F_CPU= 8Mhz/8 = 1Mhz
+ * Baudrate= 9600 at F_CPU= 8MHz
  */
 #include <avr/io.h>
 #include <util/setbaud.h>
