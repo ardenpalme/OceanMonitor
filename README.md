@@ -1,4 +1,7 @@
 # OceanMonitor
+
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Ocean monitoring project to detect ocean pollution via GPS tracking via SAT phone.
 
 Social Media Link: https://www.instagram.com/p/COUBooVDUtJ/
